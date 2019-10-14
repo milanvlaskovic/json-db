@@ -1,0 +1,17 @@
+{
+  "products": [
+    { "id": 1, "name": "Product# 1", "price": 100, "description": "Lorem ipsum doloret sit amet 1", "image": "https://madcartoons.com/wp-content/uploads/2018/10/demoproduct-500x500.jpg" },
+    { "id": 2, "name": "Product# 2", "price": 100, "description": "Lorem ipsum doloret sit amet 2", "image": "https://madcartoons.com/wp-content/uploads/2018/10/demoproduct-500x500.jpg" },
+    { "id": 3, "name": "Product# 3", "price": 100, "description": "Lorem ipsum doloret sit amet 3", "image": "https://madcartoons.com/wp-content/uploads/2018/10/demoproduct-500x500.jpg" },
+	{ "id": 4, "name": "Product# 4", "price": 100, "description": "Lorem ipsum doloret sit amet 4", "image": "https://madcartoons.com/wp-content/uploads/2018/10/demoproduct-500x500.jpg" },
+	{ "id": 5, "name": "Product# 5", "price": 100, "description": "Lorem ipsum doloret sit amet 5", "image": "https://madcartoons.com/wp-content/uploads/2018/10/demoproduct-500x500.jpg" },
+	{ "id": 6, "name": "Product# 6", "price": 100, "description": "Lorem ipsum doloret sit amet 6", "image": "https://madcartoons.com/wp-content/uploads/2018/10/demoproduct-500x500.jpg" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
