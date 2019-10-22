@@ -1,0 +1,9 @@
+{
+	"todos": [
+		{ "Title": "Go to the supermarket", "IsCompleted": false },
+		{ "Title": "Read 30 minutes some extraordinary book", "IsCompleted": false },
+		{ "Title": "Go tot he walk - 45 minutes", "IsCompleted": false },
+		{ "Title": "eat something nice", "IsCompleted": false },
+		{ "Title": "Have a nice day!", "IsCompleted": false }
+	]
+}
