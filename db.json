@@ -13,5 +13,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "todos": [
+	{ "title": "Go to the supermarket", "IsCompleted": false },
+	{ "title": "Read some extraordinary book for 60 minutes", "IsCompleted": false },
+	{ "title": "Eat something nice", "IsCompleted": false },
+	{ "title": "Have a nice day", "IsCompleted": false },
+  ]	
 }
